@@ -1,0 +1,41 @@
+{
+  "name": "gruntbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/joeygrable94/grunt-build.git",
+  "author": "Joey Grable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeygrable94/grunt-build/issues"
+  },
+  "homepage": "https://github.com/joeygrable94/grunt-build#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.1.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-cssnano": "^2.1.0",
+    "grunt-curl": "^2.4.1",
+    "grunt-postcss": "^0.9.0",
+    "grunt-wp-i18n": "^1.0.2",
+    "html5-boilerplate": "^6.1.0",
+    "load-grunt-tasks": "^4.0.0",
+    "postcss-preset-env": "^5.3.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "jquery-mousewheel": "^3.1.13"
+  }
+}
